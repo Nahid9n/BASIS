@@ -1,0 +1,21 @@
+body{
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.bg-grays{
+    background-color:#e2e3e5;
+}
+
+.fw-bolder{
+    font-weight: 600;
+}
+.logo{
+    width:200px;
+    height:60px;
+}
+.fs-7{
+    font-size:15px;
+}
+.a:hover.dropdown-menu {
+    display:block;
+}
