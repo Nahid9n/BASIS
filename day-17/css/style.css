@@ -1,0 +1,15 @@
+.fw-bolder{
+    font-weight: bolder;
+}
+.team-name-body{
+    display: block;
+}
+.team-card:hover .team-name-body{
+    display: none;
+}
+.team-social-body{
+    display: none;
+}
+.team-card:hover .team-social-body{
+    display: block;
+}
